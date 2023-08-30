@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "dayjs-nuxt": "^1.1.2",
+    "nuxt": "^3.7.0",
+    "volar-service-vetur": "latest"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
