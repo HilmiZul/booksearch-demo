@@ -5,6 +5,7 @@ Tool pencarian buku sederhana. Data diambil dari [nanotaboada/books.json](https:
 ## Technology Stack
 - [Vue.js](https://vuejs.org)
 - [Nuxt.js](https://nuxt.com)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Prerequisite
 - [Node.js](https://nodejs.org)
